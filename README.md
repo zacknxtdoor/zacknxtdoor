@@ -1,8 +1,8 @@
 # 💫 About Me:
-I'm a third-year computer science student at Christian Brothers Univeristy passionate about exploring the worlds of programming, machine learning, and software engineering.
+I'm a third-year computer science student at Christian Brothers University, passionate about exploring the worlds of programming, machine learning, and software engineering.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/idrissabdirashid) 
 
 # 💻 Tech Stack:
